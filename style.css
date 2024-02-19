@@ -5,6 +5,11 @@
 }
 /*Header Styling*/
 
+body
+{
+    overflow-x: hidden;
+}
+
 #top{
     color:rgb(245, 10, 10);
     text-align:center;
